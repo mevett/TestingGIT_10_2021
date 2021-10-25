@@ -1,3 +1,4 @@
 First contents of junkfile
 another line
 userBs extra line
+added additional line from userA
