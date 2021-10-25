@@ -2,3 +2,4 @@ First contents of junkfile
 another line
 userBs extra line
 userB is agqin altering the file
+added additional line from userA
